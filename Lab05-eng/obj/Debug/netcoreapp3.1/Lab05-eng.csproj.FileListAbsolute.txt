@@ -1,0 +1,13 @@
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\bin\Debug\netcoreapp3.1\Lab05-eng.exe
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\bin\Debug\netcoreapp3.1\Lab05-eng.deps.json
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\bin\Debug\netcoreapp3.1\Lab05-eng.runtimeconfig.json
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\bin\Debug\netcoreapp3.1\Lab05-eng.runtimeconfig.dev.json
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\bin\Debug\netcoreapp3.1\Lab05-eng.dll
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\bin\Debug\netcoreapp3.1\Lab05-eng.pdb
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\obj\Debug\netcoreapp3.1\Lab05-eng.csproj.CoreCompileInputs.cache
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\obj\Debug\netcoreapp3.1\Lab05-eng.AssemblyInfoInputs.cache
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\obj\Debug\netcoreapp3.1\Lab05-eng.AssemblyInfo.cs
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\obj\Debug\netcoreapp3.1\Lab05-eng.dll
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\obj\Debug\netcoreapp3.1\Lab05-eng.pdb
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\obj\Debug\netcoreapp3.1\Lab05-eng.genruntimeconfig.cache
+C:\Users\sushr\Desktop\Programming LAB\Lab05-eng\obj\Debug\netcoreapp3.1\Lab05-eng.csprojAssemblyReference.cache
